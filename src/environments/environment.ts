@@ -3,7 +3,11 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  discord:"https://discord.gg/uq7KcjqE",
+  teamspeak:"redemption.ts33premium.xyz",
+  fivem:"connect rp.redemptionstory.xyz:41106",
+  serverurl:"http://localhost:3000/api"
 };
 
 /*
